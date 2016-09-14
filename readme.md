@@ -1,7 +1,6 @@
 # Relative Grid and Typography Demo
 
-## A simple example of em based sizing which shows fundamental aspects of this relative unit and how to work with it.
-
+## A simple example of em based sizing which shows fundamental aspects of this relative unit and how to work with it. 
 
 Working with ems is easy enough, once you know the rules. Here are the rules.
 
